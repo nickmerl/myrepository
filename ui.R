@@ -3,5 +3,6 @@ fluidPage(
   class = "text-center",
   h1("Happy Halloween"),
   h2("Booo!!"),
-  p("testing git")
+  p("testing git"),
+  p("another test")
 )
